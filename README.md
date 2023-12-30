@@ -1,7 +1,10 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/> 
 
-                                                         
-                                                              Hi! I'm Beyza
+ <h1 align="center">Hi 👋, I'm Beyza</h1>
+<h3 align="center">I'm computer science student at Cukurova University.</h3>
+                                                        
+                                                          
+
 
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
                                                               
