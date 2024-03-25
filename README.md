@@ -10,7 +10,7 @@
 
                                                               
                                   
-🔭 I’m currently working on Syber Security<br>🌱 I’m currently learning C, Python, C++ and Assembly.<br>💬 Ask me about: erdemirbeyza01@gmail.com<br>⚡ I am constantly working to improve myself.
+🔭 I’m currently working on Syber Security<br>🌱 I’m currently learning C++ and Assembly.<br>💬 Ask me about: erdemirbeyza01@gmail.com<br>⚡ I am constantly working to improve myself.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/beyza-erdemir-7a5b94222/) 
