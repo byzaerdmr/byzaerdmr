@@ -24,8 +24,6 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
