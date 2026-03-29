@@ -7,7 +7,8 @@
                                                               
 🔹 I build data-driven systems using Python, with a focus on Machine Learning and Computer Vision.<br>
 🔹 I have worked on real-world engineering problems, including 5G-based positioning systems and signal analysis.<br>
-🔹 I enjoy designing simulation-based systems and solving complex technical challenges.
+🔹 I enjoy designing simulation-based systems and solving complex technical challenges.<br>
+
 💬 Ask me about: erdemirbeyza01@gmail.com<br>⚡ I am constantly working to improve myself.
 
 ## 🌐 Socials:
