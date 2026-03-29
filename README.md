@@ -1,16 +1,14 @@
 
 
  <h1 align="center">Hi 👋, I'm Beyza</h1>
-<h3 align="center">I'm computer science student at Cukurova University.</h3>
+<h3 align="center">Computer Engineering Student | AI | Python | 5G & Communication Systems</h3>
                                                         
-
-
-
-                                                        
-
+                                                      
                                                               
-                                  
-🔭 I’m currently working on Syber Security<br>🌱 I’m currently learning C and C++.<br>💬 Ask me about: erdemirbeyza01@gmail.com<br>⚡ I am constantly working to improve myself.
+🔹 I build data-driven systems using Python, with a focus on Machine Learning and Computer Vision.<br>
+🔹 I have worked on real-world engineering problems, including 5G-based positioning systems and signal analysis.<br>
+🔹 I enjoy designing simulation-based systems and solving complex technical challenges.
+💬 Ask me about: erdemirbeyza01@gmail.com<br>⚡ I am constantly working to improve myself.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/beyza-erdemir-7a5b94222/) 
