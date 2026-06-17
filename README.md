@@ -1,6 +1,6 @@
 
 
- <h1 align="center">Hi 👋, I'm Beyza</h1>
+ <h1 align="center">Hi, I'm Beyza</h1>
 <h3 align="center">Computer Engineering Student | AI | Python | 5G & Communication Systems</h3>
                                                         
                                                       
